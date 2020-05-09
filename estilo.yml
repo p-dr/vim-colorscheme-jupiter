@@ -1,0 +1,18 @@
+name: 'jupiter'
+version: '1.0.0'
+license: 'MIT'
+author: 'Pedro Ilidio'
+url: ''
+description: 'A Vim colorscheme.'
+colorschemes:
+  - name: 'jupiter'
+    background: 'dark'
+    palette: 'jupiter'
+airline:
+  - name: 'jupiter'
+    palette: 'jupiter'
+    style: 'jupiter'
+lightline:
+  - name: 'jupiter'
+    palette: 'jupiter'
+    style: 'jupiter'

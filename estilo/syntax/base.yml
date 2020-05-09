@@ -1,0 +1,81 @@
+# BASE UI
+ColorColumn: 'wheat'
+Conceal: 'light_wheat'
+Cursor: '- orange'
+CursorIM: 'light_wheat'
+CursorColumn: 'orange'
+CursorLine: 'orange'
+Directory: 'light_wheat'
+DiffAdd: 'light_wheat'
+DiffChange: 'light_wheat'
+DiffDelete: 'light_wheat'
+DiffText: 'light_wheat'
+ErrorMsg: 'light_wheat'
+VertSplit: 'gray'
+Folded: 'light_wheat'
+FoldColumn: 'light_wheat'
+SignColumn: 'light_wheat'
+IncSearch: 'light_wheat'
+LineNr: 'gray'
+MatchParen: 'orange - b'
+ModeMsg: 'light_wheat'
+MoreMsg: 'light_wheat'
+NonText: 'light_wheat'
+Normal: 'light_wheat'
+PMenu: 'gray'
+PMenuSel: 'orange'
+PmenuSbar: 'coral'
+PmenuThumb: 'blue'
+Question: 'light_wheat'
+Search: 'light_wheat'
+SpecialKey: 'light_wheat'
+SpellBad: 'light_wheat'
+SpellLocal: 'light_wheat'
+SpellCap: 'light_wheat'
+SpellRare: 'light_wheat'
+StatusLine: 'light_wheat'
+StatusLineNC: 'light_wheat'
+TabLine: 'gray'
+TabLineFill: 'black'
+TabLineSel: 'dark_wheat'
+Title: 'light_wheat'
+Visual: 'black dark_wheat b'
+VisualNOS: 'black coral'
+WarningMsg: 'coral'
+WildMenu: 'coral'
+# BASE SYNTAX
+Comment: 'gray - i'
+Constant: 'rosy_brown'
+String: 'light_blue - i' # Constant
+Character: 'rosy_orange' # Constant
+Boolean: 'rosy_brown - i' # Constant
+Number: '' # Constant
+Float: '' # Constant
+Identifier: 'golden_orange'
+Function: 'gold - b' # Identifier
+Statement: 'blue - bi'
+Conditional: '' # Statement
+Repeat: '' # Statement
+Label: 'wheat' # Statement
+Operator: '' # Statement
+Keyword: '' # Statement
+Exception: '' # Statement
+PreProc: 'wheat'
+Include: '@Keyword' # PreProc
+Define: '@Keyword' # PreProc
+Macro: 'gray' # PreProc
+PreCondit: 'gray' # PreProc
+Type: 'light_skin'
+StorageClass: 'wheat' # Type
+Structure: 'skin' # Type
+Typedef: 'wheat' # Type
+Special: 'wheat'
+SpecialChar: 'wheat' # Special
+Tag: 'wheat' # Special
+Delimiter: 'wheat' # Special
+SpecialComment: 'wheat' # Special
+Debug: 'wheat' # Special
+Underlined: 'wheat'
+Ignore: 'wheat'
+Error: 'darker_coral coral'
+Todo: 'gold - b'
